@@ -17,17 +17,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 > *An MIS student who loves bridging the gap between Business Processes and Technical Solutions.*
 
-* 🎓 **Education:** Final-year student at **Ho Chi Minh City Open University**
-* 💻 **Role:** Full-stack Developer (Fresher) specialized in **Python & Odoo ERP**
-* 🎯 **Focus:** System Architecture, Clean Code, and AI integration
-* 🐧 **Environment:** Linux lover (Ubuntu) & Terminal warrior
+*  **Education:** Final-year student at **Ho Chi Minh City Open University**
+*  **Role:** Full-stack Developer (Fresher) specialized in **Python & Odoo ERP**
+*  **Focus:** System Architecture, Clean Code, and AI integration
+*  **Environment:** Linux lover (Ubuntu) & Terminal warrior
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
@@ -37,8 +37,8 @@
 
 ---
 
-## 💼 Professional Experience
-### 🏢 Odoo Developer Intern | **Leonix**
+##  Professional Experience
+###  Odoo Developer Intern | **Leonix**
 *3-month Internship*
 
 * **ERP Customization:** Overhauled **CRM, Sales, and Contacts** modules to align with specific business workflows.
@@ -48,7 +48,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 * **🤖 BoxChat AI** – Multi-turn Chat Application using modern NLP.
 * **🎟 Ticket Booking System** – Full-stack web app with real-time seat selection.
 * **📊 Inventory Management** – C#-based system for enterprise resource tracking.
@@ -56,13 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgocQuy3006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocQuy3006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
-</p>
 
----
 
 <p align="center">
   📫 <b>Let's connect!</b> <br>
