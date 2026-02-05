@@ -1,18 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mai+Ngoc+Quy;Full-stack+Developer;Odoo+&amp;+Backend+Enthusiast" alt="Typing SVG" />
+  Hi 👋 I'm <span style="color:#00ADB5;">Mai Ngoc Quy</span>
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maingocquy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mnq2k4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full-stack+Developer+(Fresher);MIS+Final-year+Student;Backend+%26+Odoo+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgocQuy3006&style=for-the-badge&label=PROFILE+VIEWS&color=00ADB5" />
+  <img src="https://komarev.com/ghpvc/?username=NgocQuy3006&style=flat-square&color=00ADB5" />
 </p>
 
 ---
