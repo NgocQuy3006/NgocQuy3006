@@ -32,16 +32,8 @@
 
 ---
 
-##  Professional Experience
-###  Odoo Developer Intern | **Leonix**
-*3-month Internship*
 
-* **ERP Customization:** Overhauled **CRM, Sales, and Contacts** modules to align with specific business workflows.
-* **Feature Innovation:** Integrated **AI Summary** capabilities to enhance data processing efficiency.
-* **UI/UX:** Designed and customized **Kanban, Form, and Tree views**, providing a more intuitive user experience.
-* **Optimization:** Automated repetitive tasks, reducing manual input by ~30%.
 
----
 
 ##  Featured Projects
 * **🤖 BoxChat AI** – Multi-turn Chat Application using modern NLP.
