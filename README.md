@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi  I'm Mai Ngoc Quy
 
-<!--
-**NgocQuy3006/NgocQuy3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **Management Information Systems (MIS)** student at **Ho Chi Minh City Open University**  
+💻 Aspiring **Full-stack Developer** with interest in Backend & System Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently focusing on **Web Development & Software Engineering**
+-  Familiar with **OOP, MVC, RESTful APIs**
+-  Experience with academic & personal projects
+-  Actively learning and improving every day
+
+---
+
+##  Tech Stack
+**Languages**
+- Python, JavaScript, C#, SQL
+
+**Backend**
+- Node.js, Express
+- Python (Flask / basic Django)
+- RESTful API
+
+**Frontend**
+- ReactJS
+- HTML, CSS, JavaScript
+
+**Tools & Others**
+- Git & GitHub
+- Docker (basic)
+- Linux (Ubuntu)
+- VS Code
+
+---
+
+##  Featured Projects
+-  **Inventory Management System** (C#)
+-  **Online Ticket Project** (Python)
+-  **Student Management System** (JavaScript)
+-  **Vietnamese Sentiment Analysis** (NLP – Python)
+
+
+
+##  Contact Me
+-  Email: **mnq2k4@gmail.com**
+-  LinkedIn: [linkedin.com/in/maingocquy](https://www.linkedin.com/in/maingocquy)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
