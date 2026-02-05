@@ -79,14 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgocQuy3006&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgocQuy3006&theme=tokyonight" />
-</p>
 
----
 
 ## 📫 Contact Me
 📧 **Email:** mnq2k4@gmail.com  
