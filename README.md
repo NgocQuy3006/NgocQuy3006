@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I'm <span style="color:#00ADB5;">Mai Ngoc Quy</span>
+   I'm <span style="color:#00ADB5;">Mai Ngoc Quy</span>
 </h1>
 
 <p align="center">
