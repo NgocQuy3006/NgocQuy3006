@@ -36,10 +36,10 @@
 
 
 ##  Featured Projects
-*  BoxChat AI** – Multi-turn Chat Application using modern NLP.
-*  Ticket Booking System** – Full-stack web app with real-time seat selection.
-*  Inventory Management** – C#-based system for enterprise resource tracking.
-*  Sentiment Analysis** – Natural Language Processing project for Vietnamese text.
+*  BoxChat AI – Multi-turn Chat Application using modern NLP.
+*  Ticket Booking System – Full-stack web app with real-time seat selection.
+*  Inventory Management – C#-based system for enterprise resource tracking.
+*  Sentiment Analysis – Natural Language Processing project for Vietnamese text.
 
 ---
 
